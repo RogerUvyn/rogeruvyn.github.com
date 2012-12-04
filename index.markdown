@@ -10,7 +10,7 @@ layout: default
 
 <p><a class="btn btn-primary btn-large" href="">Learn more &raquo;</a></p>
 
-</div>
+
 
 
 <div class="row">
