@@ -2,9 +2,31 @@
 layout: default
 ---
 <div class="hero-unit">
+   <ul class="nav" tabindex="-2">
+    <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programming/Computer Interests</a>
+          <ul class="dropdown-menu">
+                <li class="nav-header">Web Programming</li>
+                <li><a href="https://github.com/">GitHub Social Coding</a></li>
+                      <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Responsive Design</a>
+                            <ul class="dropdown-menu">
+                              <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
+                              <li><a href="http://jekyllrb.com/">Jekyll</a></li>
+                              <li><a href="http://maruku.rubyforge.org/index.html">maruku</a></li>
+                            </ul>
+                      </li>
+                <li><a href="http://www.w3schools.com/html/html5_intro.asp">HTML 5 at w3 School</a></li>
+                <li><a href="http://drupal.org/">Drupal</a></li>
+
+              
+        </ul>
+    </li>
+  </ul>
+
   <ul class="nav" tabindex="-2">
     <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Work Related Interests</a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Programming/Computer Interests</a>
           <ul class="dropdown-menu">
                 <li class="nav-header">Automotive</li>
                       <li class="dropdown-submenu">
