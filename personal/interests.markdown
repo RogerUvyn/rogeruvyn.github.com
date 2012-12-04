@@ -34,6 +34,8 @@ layout: default
           <li class="dropdown-submenu">
           <a tabindex="-1" href="#">My Paintings</a>
             <ul class="dropdown-menu">
+            <li><a href="paintings.html">View All Paintings</a></li>
+            <li class="divider"></li>
             <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
             <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
             <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
