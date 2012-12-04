@@ -4,7 +4,7 @@ layout: default
 
 
 <!-- Main hero unit for a primary marketing message or call to action -->
-<div class="hero-unit">
+
 <h1>Welcome</h1>
 <p>This is a test website used by it's designer, Roger Uvyn. It is my sandbox as we call it. It's a place for me to try new code so if you see words not spelled correctly or something that look crazy it could be because it is still a work in progress and I maybe in the process of changing code and fixing or breaking things.</p>
 
