@@ -27,6 +27,6 @@ layout: default
 <div class="span4">
 <h2>All About Me</h2>
 <p>Find out more about me.</p>
-<p><a class="btn" href="personal/interests.markdown">View details &raquo;</a></p>
+<p><a class="btn" href="personal/interests.html">View details &raquo;</a></p>
 </div>
 </div>
