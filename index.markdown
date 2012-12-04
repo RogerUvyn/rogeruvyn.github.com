@@ -20,9 +20,9 @@ layout: default
 <p><a class="btn" href="#">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<h2>Warning</h2>
+<p>This programmer has run out of time to use this area today. If you enter this area your safety cannot be guaranteed. By entering this area you are releasing the programmer of all responsibilities that could result in a binary altercation leading to a possible blue screen of death. You have been warned! </p>
+<p><a class="btn" href="http://rogeruvyn.github.com/bluescreen.html">Enter at your own risk&raquo;</a></p>
 </div>
 <div class="span4">
 <h2>All About Me</h2>
