@@ -15,8 +15,8 @@ layout: default
 
 <div class="row">
 <div class="span4">
-<h2>Heading</h2>
-<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+<h2>Currently Working On</h2>
+<p>What am I currently working on? The answer is responsive design. So if you see things here that may not make sense to you don’t stress out. Remember this is my area to play and experiment so you may see different combinations of buttons code and crazy things. Just remember they all have a purpose in the grand scheme of the universe.</p>
 <p><a class="btn" href="#">View details &raquo;</a></p>
 </div>
 <div class="span4">
