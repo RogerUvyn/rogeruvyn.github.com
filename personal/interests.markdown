@@ -44,9 +44,11 @@ layout: default
       </ul>
       </li>
       <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Second Menu</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Favorite Links</a>
       <ul class="dropdown-menu">
-        <li class="nav-header">Automotive</li>
+        <li><a href="http://dx.com/">Cool Gadgets for cheep</a></li>
+        <li><a href="http://www.nitroplanes.com/">Nitro Planes</a></li>
+        <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
       </ul>
       </li>
   </ul>
