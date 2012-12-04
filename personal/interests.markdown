@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<ul class="nav">
+
+<div class="hero-unit">
+
+
+
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies <b class="caret"></b></a>
 <ul class="dropdown-menu">
@@ -22,7 +26,8 @@ layout: default
 <li><a href="#">Painting</a></li>
 </ul>
 </li>
-</ul>
 
 
 
+
+</div>
