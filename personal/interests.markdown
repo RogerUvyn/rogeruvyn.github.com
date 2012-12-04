@@ -7,7 +7,7 @@ layout: default
 <ul class="nav">
 
 <li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown"><b class="caret">Hobbies</b></a>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies<b class="caret">_</b></a>
 <ul class="dropdown-menu">
 <li class="nav-header">Automotive</li>
 <li class="dropdown-submenu">
