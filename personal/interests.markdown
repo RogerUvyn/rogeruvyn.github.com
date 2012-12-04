@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="hero-unit">
-<P>Personal Non Programming</P>
-<P>Yes there is more to life then computers.</P>
-  <ul class="nav">
+<P>####Personal Non Programming<br>#####Yes there is more to life then computers.</P>
+  <ul class="nav" tabindex="-2">
       <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies and Interests</a>
       <ul class="dropdown-menu">
