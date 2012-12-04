@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="hero-unit">
-  ###Personal Non Programming
-  #####Yes there is more to life then computers.
+<P>Personal Non Programming</P>
+<P>Yes there is more to life then computers.</P>
   <ul class="nav">
       <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies and Interests</a>
