@@ -21,6 +21,7 @@ layout: default
     <li><a href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration</a></li>
     <li><a href="http://en.wikipedia.org/wiki/Muscle_car">Muscle Cars</a></li>
     <li class="divider"></li>
+    <li class="nav-header">Remote Control</li>
       <li class="dropdown-submenu">
       <a tabindex="-1" href="#">RC Hobbies</a>
         <ul class="dropdown-menu">
@@ -29,6 +30,7 @@ layout: default
         </ul>
       </li>
     <li class="divider"></li>
+    <li class="nav-header">Arts</li>
       <li class="dropdown-submenu">
       <a tabindex="-1" href="#">My Paintings</a>
         <ul class="dropdown-menu">
@@ -43,5 +45,14 @@ layout: default
       </li>
   </ul>
   </li>
+    <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Photos</a>
+  <li><a href="http://www.nhra.com/">Photo One</a></li>
+  <li><a href="http://www.nhra.com/">Photo Two</a></li>
+  <ul class="dropdown-menu">
   </ul>
 </div>
+
+
+
+
