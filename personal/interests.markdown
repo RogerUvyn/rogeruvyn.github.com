@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-
 <div class="hero-unit">
   <ul class="nav" tabindex="-2">
       <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies and Interests</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Work Related Interests</a>
       <ul class="dropdown-menu">
         <li class="nav-header">Automotive</li>
           <li class="dropdown-submenu">
-          <a tabindex="-1" href="#">Automotive Racing</a>
+            <a tabindex="-1" href="#">Automotive Racing</a>
             <ul class="dropdown-menu">
               <li><a href="http://www.nhra.com/">NHRA</a></li>
               <li><a href="http://www.nascar.com/">NASCAR</a></li>
@@ -41,19 +40,14 @@ layout: default
             <li><a href="paintings.html">View All Paintings</a></li>
             </ul>
           </li>
-      </ul>
-      </li>
-      <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Favorite Links</a>
+      <li class="divider"></li>
+      <li class="nav-header">Favorite Links</li>
       <ul class="dropdown-menu">
         <li><a href="http://dx.com/">Cool Gadgets for cheep</a></li>
         <li><a href="http://www.nitroplanes.com/">Nitro Planes</a></li>
         <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
       </ul>
-      </li>
+    </li>
   </ul>
 </div>
-
-
-
 
