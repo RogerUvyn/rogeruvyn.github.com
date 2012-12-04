@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 <div class="hero-unit">
   ###Personal Non Programming
   #####Yes there is more to life then computers.
