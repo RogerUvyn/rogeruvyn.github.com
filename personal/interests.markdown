@@ -21,16 +21,15 @@ layout: default
         <li><a href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration</a></li>
         <li><a href="http://en.wikipedia.org/wiki/Muscle_car">Muscle Cars</a></li>
         <li class="divider"></li>
-        <li class="nav-header">RC Hobbies</li>
-          <ul class="dropdown-menu">
+            <ul class="dropdown-menu">
+            <li class="nav-header">RC Hobbies</li>
             <li><a href="http://www.modelaircraft.org/">RC Planes AMA</a></li>
             <li><a href="http://www.rccaraction.com/">RC Cars</a></li>
             </ul>
-          </li>
         <li class="divider"></li>
         <li class="nav-header">My Art Interessts</li>
           <li class="dropdown-submenu">
-          <a tabindex="-1" href="#">Oil Painting</a>
+          <a tabindex="-1" href="#">Oil Paintings</a>
             <ul class="dropdown-menu">
             <li class="nav-header">View Individually</li>
             <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
