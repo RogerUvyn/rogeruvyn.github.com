@@ -30,10 +30,15 @@ layout: default
       </li>
     <li class="divider"></li>
       <li class="dropdown-submenu">
-      <a tabindex="-1" href="#">The Fine Arts</a>
+      <a tabindex="-1" href="#">My Paintings</a>
         <ul class="dropdown-menu">
-        <li><a href="http://www.modelaircraft.org/">RC Planes AMA</a></li>
-        <li><a href="http://www.rccaraction.com/">RC Cars</a></li>
+        <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
+        <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
+        <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
+        <li><a href="../assets/mypics/swirl.jpg">Modern Art</a></li>
+        <li><a href="../assets/mypics/treeweep.jpg">Fantasy Tree</a></li>
+        <li><a href="../assets/mypics/angel.jpg">Angel</a></li>
+        <li><a href="../assets/mypics/fright.jpg">Dark Art</a></li>
         </ul>
       </li>
   </ul>
