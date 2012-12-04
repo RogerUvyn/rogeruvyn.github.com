@@ -3,50 +3,48 @@ layout: default
 ---
 <div class="hero-unit">
   <ul class="nav" tabindex="-2">
-      <li class="dropdown">
+    <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Work Related Interests</a>
       <ul class="dropdown-menu">
-        <li class="nav-header">Automotive</li>
-          <li class="dropdown-submenu">
-            <a tabindex="-1" href="#">Automotive Racing</a>
-            <ul class="dropdown-menu">
-              <li><a href="http://www.nhra.com/">NHRA</a></li>
-              <li><a href="http://www.nascar.com/">NASCAR</a></li>
-              <li><a href="http://www.nascar.com/">NASCAR</a></li>
-              <li><a href="http://www.lebanonvalley.com/">Lebanon Valley Racing</a></li>
-              <li><a href="http://fondaspeedway.net/">Fonda Speedway</a></li>
-            </ul>
-          </li>
-        <li><a href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration</a></li>
-        <li><a href="http://en.wikipedia.org/wiki/Muscle_car">Muscle Cars</a></li>
+          <li class="nav-header">Automotive</li>
+            <li class="dropdown-submenu">
+              <a tabindex="-1" href="#">Automotive Racing</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="http://www.nhra.com/">NHRA</a></li>
+                    <li><a href="http://www.nascar.com/">NASCAR</a></li>
+                    <li><a href="http://www.nascar.com/">NASCAR</a></li>
+                    <li><a href="http://www.lebanonvalley.com/">Lebanon Valley Racing</a></li>
+                    <li><a href="http://fondaspeedway.net/">Fonda Speedway</a></li>
+                  </ul>
+            </li>
+            <li><a href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Muscle_car">Muscle Cars</a></li>
         <li class="divider"></li>
             <li class="nav-header">RC Hobbies</li>
-            <li><a href="http://www.modelaircraft.org/">RC Planes AMA</a></li>
-            <li><a href="http://www.rccaraction.com/">RC Cars</a></li>
+                <li><a href="http://www.modelaircraft.org/">RC Planes AMA</a></li>
+                <li><a href="http://www.rccaraction.com/">RC Cars</a></li>
         <li class="divider"></li>
         <li class="nav-header">My Art Interessts</li>
           <li class="dropdown-submenu">
           <a tabindex="-1" href="#">Oil Paintings</a>
-            <ul class="dropdown-menu">
-            <li class="nav-header">View Individually</li>
-            <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
-            <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
-            <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
-            <li><a href="../assets/mypics/swirl.jpg">Modern Art</a></li>
-            <li><a href="../assets/mypics/treeweep.jpg">Fantasy Tree</a></li>
-            <li><a href="../assets/mypics/angel.jpg">Angel</a></li>
-            <li><a href="../assets/mypics/fright.jpg">Dark Art</a></li>
-            <li class="divider"></li>
-            <li><a href="paintings.html">View All Paintings</a></li>
-            </ul>
+                <ul class="dropdown-menu">
+                    <li class="nav-header">View Individually</li>
+                    <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
+                    <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
+                    <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
+                    <li><a href="../assets/mypics/swirl.jpg">Modern Art</a></li>
+                    <li><a href="../assets/mypics/treeweep.jpg">Fantasy Tree</a></li>
+                    <li><a href="../assets/mypics/angel.jpg">Angel</a></li>
+                    <li><a href="../assets/mypics/fright.jpg">Dark Art</a></li>
+                    <li class="divider"></li>
+                    <li><a href="paintings.html">View All Paintings</a></li>
+                </ul>
           </li>
       <li class="divider"></li>
-      <li class="nav-header">Favorite Links</li>
-      <ul class="dropdown-menu">
-        <li><a href="http://dx.com/">Cool Gadgets for cheep</a></li>
-        <li><a href="http://www.nitroplanes.com/">Nitro Planes</a></li>
-        <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
-      </ul>
+        <li class="nav-header">Favorite Links</li>
+          <li><a href="http://dx.com/">Cool Gadgets for cheep</a></li>
+          <li><a href="http://www.nitroplanes.com/">Nitro Planes</a></li>
+          <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
     </li>
   </ul>
 </div>
