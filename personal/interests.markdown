@@ -45,11 +45,6 @@ layout: default
       </li>
   </ul>
   </li>
-    <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Photos</a>
-  <li><a href="http://www.nhra.com/">Photo One</a></li>
-  <li><a href="http://www.nhra.com/">Photo Two</a></li>
-  <ul class="dropdown-menu">
   </ul>
 </div>
 
