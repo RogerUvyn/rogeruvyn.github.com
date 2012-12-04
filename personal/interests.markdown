@@ -5,7 +5,7 @@ layout: default
 <div class="hero-unit">
   <ul class="nav">
       <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies and Iterests</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hobbies and Interests</a>
       <ul class="dropdown-menu">
         <li class="nav-header">Automotive</li>
           <li class="dropdown-submenu">
@@ -30,12 +30,11 @@ layout: default
             </ul>
           </li>
         <li class="divider"></li>
-        <li class="nav-header">Arts</li>
+        <li class="nav-header">My Art Interessts</li>
           <li class="dropdown-submenu">
-          <a tabindex="-1" href="#">My Paintings</a>
+          <a tabindex="-1" href="#">Oil Paintings</a>
             <ul class="dropdown-menu">
-            <li><a href="paintings.html">View All Paintings</a></li>
-            <li class="divider"></li>
+            <li class="nav-header">View Paintings Individually</li>
             <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
             <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
             <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
@@ -43,6 +42,8 @@ layout: default
             <li><a href="../assets/mypics/treeweep.jpg">Fantasy Tree</a></li>
             <li><a href="../assets/mypics/angel.jpg">Angel</a></li>
             <li><a href="../assets/mypics/fright.jpg">Dark Art</a></li>
+            <li class="divider"></li>
+            <li><a href="paintings.html">View All Paintings</a></li>
             </ul>
           </li>
       </ul>
