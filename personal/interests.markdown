@@ -10,8 +10,8 @@ layout: default
 
 
 
-
-####Then he said let there be buttons!
+<p>
+<h1>Then he said let there be buttons!</h1>
 <div class="btn-group">
 <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
 Geek Stuff
@@ -21,8 +21,9 @@ Geek Stuff
 <li><a href="https://github.com/">GitHub Social Coding</a></li>
 </ul>
 </div>
+</p>
 
-
+<p>
 <div class="btn-group">
 <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
 None Geek Stuff
@@ -32,7 +33,7 @@ None Geek Stuff
 <li><a href="paintings.html">View All Paintings</a></li>
 </ul>
 </div>
-
+</p>
 
 
 
