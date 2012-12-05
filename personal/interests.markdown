@@ -42,7 +42,7 @@ None Geek Stuff
 <ul class="dropdown-menu">
 <li class="nav-header">Automotive</li>
                   <li class="dropdown-submenu">
-                    <a tabindex="0" href="#">Automotive Racing</a>
+                    <a tabindex="-20" href="#">Automotive Racing</a>
                         <ul class="dropdown-menu">
                           <li><a href="http://www.nhra.com/">NHRA</a></li>
                           <li><a href="http://www.nascar.com/">NASCAR</a></li>
@@ -60,7 +60,7 @@ None Geek Stuff
         <li class="divider"></li>
         <li class="nav-header">My Art Interessts</li>
               <li class="dropdown-submenu">
-                  <a tabindex="0" href="#">Oil Paintings</a>
+                  <a tabindex="-20" href="#">Oil Paintings</a>
                         <ul class="dropdown-menu">
                             <li class="nav-header">View Individually</li>
                             <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
