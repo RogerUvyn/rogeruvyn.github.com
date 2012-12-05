@@ -7,26 +7,6 @@ layout: default
 
 <div class="hero-unit">
 
-
-
-
-
-
-
-<div class="btn-group">
-                <button class="btn btn-success dropdown-toggle" data-toggle="dropdown">Success <span class="caret"></span></button>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li class="divider"></li>
-                  <li><a href="#">Separated link</a></li>
-                </ul>
-
-
-
-
-
 <p>
 <h4>Then he said let there be buttons!</h4>
 <div class="btn-grou">
