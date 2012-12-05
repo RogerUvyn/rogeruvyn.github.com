@@ -11,7 +11,7 @@ layout: default
 
 
 <p>
-<h1>Then he said let there be buttons!</h1>
+<h4>Then he said let there be buttons!</h4>
 <div class="btn-group">
 <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
 Geek Stuff
@@ -19,6 +19,14 @@ Geek Stuff
 </a>
 <ul class="dropdown-menu">
 <li><a href="https://github.com/">GitHub Social Coding</a></li>
+<li class="dropdown-submenu">
+                    <a tabindex="-1" href="#">Responsive Design</a>
+                        <ul class="dropdown-menu">
+                          <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
+                          <li><a href="http://jekyllrb.com/">Jekyll</a></li>
+                          <li><a href="http://maruku.rubyforge.org/index.html">maruku</a></li>
+                        </ul>
+                  </li>
 </ul>
 </div>
 </p>
@@ -36,10 +44,10 @@ None Geek Stuff
 </p>
 
 
+<hr>
 
 
-
-
+<p>
 
 <ul class="nav" tabindex="-2">
 <li class="dropdown">
@@ -62,7 +70,9 @@ None Geek Stuff
     </ul>
 </li>
 </ul>
+</p>
 
+<p>
 <ul class="nav" tabindex="-2">
 <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Programming/Computer Interests</a>
@@ -108,6 +118,7 @@ None Geek Stuff
           <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
     </ul>
 </li>
+</p>
 </ul>
 </div>
 
