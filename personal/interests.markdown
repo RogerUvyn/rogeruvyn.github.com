@@ -13,7 +13,7 @@ layout: default
 
 
 <div class="btn-group">
-<a class="btn btn-success dropdown-toggle" data-toggle="dropdown" href="#">
+<a class="btn btn-action dropdown-toggle" data-toggle="dropdown" href="#">
 Geek Stuff
 <span class="caret"></span>
 </a>
@@ -35,7 +35,7 @@ Geek Stuff
 
 <p>
 <div class="btn-group">
-<a class="btn btn-success dropdown-toggle" data-toggle="dropdown" href="#">
+<a class="btn btn-action dropdown-toggle" data-toggle="dropdown" href="#">
 None Geek Stuff
 <span class="caret"></span>
 </a>
