@@ -10,10 +10,27 @@ layout: default
 
 
 
+
+
+
+<div class="btn-group">
+                <button class="btn btn-success dropdown-toggle" data-toggle="dropdown">Success <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li class="divider"></li>
+                  <li><a href="#">Separated link</a></li>
+                </ul>
+
+
+
+
+
 <p>
 <h4>Then he said let there be buttons!</h4>
-<div class="btn-group">
-<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+<div class="btn-grou">
+<a class="btn btn-success dropdown-toggle" data-toggle="dropdown" href="#">
 Geek Stuff
 <span class="caret"></span>
 </a>
@@ -35,7 +52,7 @@ Geek Stuff
 
 <p>
 <div class="btn-group">
-<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+<a class="btn btn-success dropdown-toggle" data-toggle="dropdown" href="#">
 None Geek Stuff
 <span class="caret"></span>
 </a>

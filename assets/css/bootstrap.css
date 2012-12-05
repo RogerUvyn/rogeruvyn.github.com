@@ -12,8 +12,8 @@
  Roger made changes to the following lines
 
 
-Roger changed from 0% to 10% on line top: 10%; below
-Roger changed from 100% to 20% on line left: 20%; below
+Roger changed from 0% to 30% on line top: 10%; below
+Roger changed from 100% to 15% on line left: 20%; below
 
 .dropdown-submenu > .dropdown-menu {
   top: 10%; 
@@ -2912,8 +2912,8 @@ table th[class*="span"],
 }
 
 .dropdown-submenu > .dropdown-menu {
-  top: 30%; /*Roger changed from 0% to 10% */
-  left: 15%; /*Roger changed from 100% to 20% */
+  top: 30%; /*Roger changed from 0% to 30% */
+  left: 15%; /*Roger changed from 100% to 15% */
   margin-top: -6px;
   margin-left: -1px;
   -webkit-border-radius: 0 6px 6px 6px;
