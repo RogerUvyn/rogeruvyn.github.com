@@ -8,6 +8,26 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+ /*
+ Roger made changes to the following lines
+
+
+Roger changed from 0% to 10% on line top: 10%; below
+Roger changed from 100% to 20% on line left: 20%; below
+
+.dropdown-submenu > .dropdown-menu {
+  top: 10%; 
+  left: 20%; 
+  margin-top: -6px;
+  margin-left: -1px;
+  -webkit-border-radius: 0 6px 6px 6px;
+     -moz-border-radius: 0 6px 6px 6px;
+          border-radius: 0 6px 6px 6px;
+}
+
+*/
+
+
 article,
 aside,
 details,
@@ -2892,8 +2912,8 @@ table th[class*="span"],
 }
 
 .dropdown-submenu > .dropdown-menu {
-  top: 0;
-  left: 20%;
+  top: 10%; /*Roger changed from 0% to 10% */
+  left: 20%; /*Roger changed from 100% to 20% */
   margin-top: -6px;
   margin-left: -1px;
   -webkit-border-radius: 0 6px 6px 6px;
