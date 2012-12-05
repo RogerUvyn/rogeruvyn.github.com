@@ -47,7 +47,7 @@ None Geek Stuff
 <hr>
 
 
-<p>
+
 
 <ul class="nav" tabindex="-2">
 <li class="dropdown">
@@ -70,9 +70,7 @@ None Geek Stuff
     </ul>
 </li>
 </ul>
-</p>
 
-<p>
 <ul class="nav" tabindex="-2">
 <li class="dropdown">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">None Programming/Computer Interests</a>
@@ -118,7 +116,6 @@ None Geek Stuff
           <li><a href="http://www.storagetreasures.com/">Find a Local Storage Auction</a></li>
     </ul>
 </li>
-</p>
 </ul>
 </div>
 
