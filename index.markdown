@@ -20,9 +20,9 @@ layout: default
 <p><a class="btn" href="http://rogeruvyn.github.com/personal/projects.html">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h2>Warning</h2>
-<p>This programmer has run out of time to use this area today. If you enter this area your safety cannot be guaranteed. By entering this area you are releasing the programmer of all responsibilities that could result in a binary altercation leading to a possible blue screen of death. You have been warned! </p>
-<p><a class="btn" href="http://rogeruvyn.github.com/bluescreen.html">Enter at your own risk&raquo;</a></p>
+<h2>Driving Me Crazy</h2>
+<p>See what’s driving me crazy. This page contains not only code that drives me crazy but other things in life. Everyone has something that pushes their launch button. What starts your launch sequence? Email me and let me know! LOL</p>
+<p><a class="btn" href="http://rogeruvyn.github.com/crazy.html">Enter at your own risk&raquo;</a></p>
 </div>
 <div class="span4">
 <h2>All About Me</h2>
