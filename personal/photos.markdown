@@ -5,7 +5,6 @@ layout: default
   <li class="span2">
     <div class="thumbnail">
       <img src="../personal/photos/roger.jpg" alt="Me in the Navy in my younger years.">
-      <h5>My Navy Days</h5>
       <p>Me when I was much younger in the Navy!</p>
     </div>
   </li>
@@ -13,7 +12,6 @@ layout: default
   <li class="span2">
     <div class="thumbnail">
       <img src="../personal/photos/004.jpg" alt="My beautiful wife Lorie and I.">
-      <h5>My beautiful wife Lorie and I.</h5>
       <p>My beautiful wife Lorie and I.</p>
     </div>
   </li>
@@ -21,7 +19,6 @@ layout: default
   <li class="span2">
     <div class="thumbnail">
       <img src="../personal/photos/20120317_113455.jpg" alt="Yes that is me.">
-      <h5>What happens when I don't shave for a few days.</h5>
       <p>Can you guess what holiday this was taken on?</p>
     </div>
   </li>
@@ -33,6 +30,30 @@ layout: default
       <p>Disney Store in NYC.</p>
     </div>
   </li>
+
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="../personal/photos/20111127_131935.jpg" alt="Dexter">
+      <h5>Christmas Time</h5>
+      <p>Dexter the grinch!</p>
+    </div>
+  </li>
+
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="../personal/photos/20111127_132041.jpg" alt="Hudson">
+      <h5>Christmas Time</h5>
+      <p>Hudson the whoo beast.</p>
+    </div>
+  </li>  
+
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="../personal/photos/Lucky.jpg" alt="Lucky">
+      <h5>The baby.</h5>
+      <p>Lucky is the baby of the family.</p>
+    </div>
+  </li>    
 
   ...
 </ul>
