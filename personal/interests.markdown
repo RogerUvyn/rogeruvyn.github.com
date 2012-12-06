@@ -9,7 +9,24 @@ layout: default
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </a>
-                 
+
+
+                  <div class="nav-collapse collapse">
+                      <ul class="nav">
+                            <li><a href="http://rogeruvyn.github.com/index.html">Home</a></li>
+                            <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
+                            <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
+                                
+                            </li>
+                      </ul>
+                  </div>
+
+
+
+
+
             </div>
       </div>
 </div>
