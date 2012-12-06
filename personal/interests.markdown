@@ -16,7 +16,7 @@ layout: default
                               <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
                               <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                               <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Geek Interests<b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Geek Interests</a>
                                 <ul class="dropdown-menu">
                                   <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
                                   <li><a href="http://jekyllrb.com/">Jekyll</a></li>
@@ -27,7 +27,7 @@ layout: default
                                 </ul>
                               </li>
                               <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Non Geek Interests<b class="caret"></b></a>
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Non Geek Interests</a>
                                   <ul class="dropdown-menu">
                                       <li class="nav-header">Motorhead</li>
                                       <li><a href="http://www.nhra.com/">NHRA</a></li>
