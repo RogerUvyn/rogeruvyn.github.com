@@ -23,21 +23,19 @@ layout: default
                                 <ul class="dropdown-menu">
 
 
-                                    <li><a href="">Geek Interests</a></li>
+                                    <li class="dropdown-submenu">Geek Interests</li>
                                     <ul class="dropdown-menu">
                                       <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
                                       <li><a href="http://jekyllrb.com/">Jekyll</a></li>
                                       <li><a href="http://maruku.rubyforge.org/index.html">maruku</a></li>
                                     </ul>
                                     <li class="divider"></li>
-                                    <li><a href="">Non-Geek Interests</a></li>
+                                    <li class="dropdown-submenu">Non-Geek Interests</li>
                                     <ul class="dropdown-menu">
                                       <li class="nav-header">Nav header</li>
                                       <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                                     </ul>
                                 </ul>
-
-
 
 
 
