@@ -15,7 +15,7 @@ layout: default
                             <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
                             <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More</a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="http://rogeruvyn.github.com/index.html">Home</a></li>
                                     <li><a href="#">Another action</a></li>
