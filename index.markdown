@@ -22,7 +22,7 @@ layout: default
 <div class="span4">
 <h2>Driving Me Crazy</h2>
 <p>See what’s driving me crazy. This page contains not only code that drives me crazy but other things in life. Everyone has something that pushes their launch button. What starts your launch sequence? Email me and let me know! LOL</p>
-<p><a class="btn" href="http://rogeruvyn.github.com/crazy.html">Enter at your own risk&raquo;</a></p>
+<p><a class="btn" href="http://rogeruvyn.github.com/personal/crazy.html">Enter at your own risk&raquo;</a></p>
 </div>
 <div class="span4">
 <h2>All About Me</h2>
