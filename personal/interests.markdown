@@ -50,6 +50,7 @@ layout: default
                                       <li><a href="../assets/mypics/angel.jpg">Angel</a></li>
                                       <li><a href="../assets/mypics/fright.jpg">Dark Art</a></li>
                                   </ul>
+                              </li>
                           </ul>
                       </div>
                 </div>
