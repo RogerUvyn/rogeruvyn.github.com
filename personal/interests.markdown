@@ -35,13 +35,6 @@ layout: default
                                       <li class="nav-header">Nav header</li>
                                       <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                                     </ul>
-                                </ul>
-
-
-                  </li>
-
-
-
 
                             </li>
                       </ul>
