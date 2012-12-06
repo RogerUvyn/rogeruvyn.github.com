@@ -16,14 +16,14 @@ layout: default
                             <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
                             <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                             <li class="dropdown">
+
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Interests</a>
 
 
 
-                                <ul class="dropdown-menu">
-
-
-                                    <li class="dropdown-submenu">Geek Interests</li>
+                                <li class="nav-header">My Art Interessts</li>
+                                <li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Geek Interests</a>
                                     <ul class="dropdown-menu">
                                       <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
                                       <li><a href="http://jekyllrb.com/">Jekyll</a></li>
@@ -37,6 +37,8 @@ layout: default
                                     </ul>
                                 </ul>
 
+
+                  </li>
 
 
 
