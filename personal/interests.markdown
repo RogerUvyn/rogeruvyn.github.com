@@ -12,7 +12,7 @@ layout: default
                 <a class="brand" href="http://rogeruvyn.github.com/personal/interests.html">About Me</a>
                   <div class="nav-collapse collapse">
                       <ul class="nav">
-                          <li><a href="#">Photos</a></li>
+                          <li><a href="http://rogeruvyn.github.com/personal/photos.html">Photos</a></li>
                           <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Geek Interests</a>
                             <ul class="dropdown-menu">
