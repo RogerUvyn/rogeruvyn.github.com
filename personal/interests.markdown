@@ -40,7 +40,7 @@ layout: default
                                   <li><a href="http://www.rccaraction.com/">RC Cars</a></li>
                                   <li class="nav-header">Oil Painting</li>
                                   <li><a href="paintings.html">View All Paintings</a></li>
-                                  <li><a href="../assets/mypics/fruitbasket.jpg">My First Oil Painting</a></li>
+                                  <li><a href="../assets/mypics/fruitbasket.jpg">My First Painting</a></li>
                                   <li><a href="../assets/mypics/treesunset.jpg">Tree at Sunset</a></li>
                                   <li><a href="../assets/mypics/jesrabbit.jpg">Jessica Rabbit</a></li>
                                   <li><a href="../assets/mypics/swirl.jpg">Modern Art</a></li>
