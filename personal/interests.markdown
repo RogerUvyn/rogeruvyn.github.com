@@ -10,8 +10,10 @@ layout: default
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
+                    <a class="brand" href="http://rogeruvyn.github.com/interests.html">About Me</a>
                       <div class="nav-collapse collapse">
                           <ul class="nav">
+                              <li><a href="http://rogeruvyn.github.com/index.html">XXXXXX</a></li>
                               <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Geek Interests</a>
                                 <ul class="dropdown-menu">
