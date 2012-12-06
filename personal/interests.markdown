@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="hero-unit">
 <div class="navbar">
       <div class="navbar-inner">
             <div class="container">
@@ -15,18 +16,37 @@ layout: default
                             <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
                             <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Interests</a>
+
+
+
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://rogeruvyn.github.com/index.html">Home</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="http://rogeruvyn.github.com/personal/interests.html">About Me</a></li>
+
+
+                                    <li><a href="">Geek Interests</a></li>
+                                    <ul class="dropdown-menu">
+                                      <li><a href="http://twitter.github.com/bootstrap/">Boot Strap</a></li>
+                                      <li><a href="http://jekyllrb.com/">Jekyll</a></li>
+                                      <li><a href="http://maruku.rubyforge.org/index.html">maruku</a></li>
+                                    </ul>
                                     <li class="divider"></li>
-                                    <li class="nav-header">Nav header</li>
-                                    <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
+                                    <li><a href="">Non-Geek Interests</a></li>
+                                    <ul class="dropdown-menu">
+                                      <li class="nav-header">Nav header</li>
+                                      <li><a href="http://rogeruvyn.github.com/personal/contactinfo.html">Contact</a></li>
+                                    </ul>
                                 </ul>
+
+
+
+
+
+
+
                             </li>
                       </ul>
                   </div>
             </div>
       </div>
+</div>
 </div>
