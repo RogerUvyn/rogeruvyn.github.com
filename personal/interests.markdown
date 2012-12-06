@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="hero-unit">
-    <div class="navbar navbar-inverse">
+    <div class="navbar navbar-inverse navbar-fixed-top.container">
           <div class="navbar-inner">
                 <div class="container">
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
