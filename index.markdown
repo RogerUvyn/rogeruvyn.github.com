@@ -13,17 +13,17 @@ layout: default
 
 <div class="row">
 <div class="span4">
-<h3>Currently Working On</h3>
+<h4>Currently Working On</h4>
 <p>What am I currently working on? The answer is responsive design. So if you see things here that may not make sense to you don’t stress out. Remember this is my area to play and experiment so you may see different combinations of buttons code and crazy things. Just remember they all have a purpose in the grand scheme of the universe.</p>
 <p><a class="btn" href="http://rogeruvyn.github.com/personal/projects.html">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h3>Driving Me Crazy</h3>
+<h4>Driving Me Crazy</h4>
 <p>See what’s driving me crazy. This page contains not only code that drives me crazy but other things in life. Everyone has something that pushes their launch button. What starts your launch sequence? Email me and let me know! LOL</p>
 <p><a class="btn" href="http://rogeruvyn.github.com/personal/crazy.html">Lets hear it!k&raquo;</a></p>
 </div>
 <div class="span4">
-<h3>All About Me</h3>
+<h4>All About Me</h4>
 <p>Find out more about me.</p>
 <p><a class="btn" href="personal/interests.html">View details &raquo;</a></p>
 </div>
