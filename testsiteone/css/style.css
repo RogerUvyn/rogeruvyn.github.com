@@ -51,18 +51,8 @@ body{
 }
 
 
-/**************
-Media Queries
-***************/
-
-@media screen and (max-height: 400px){
-#header{
-	font-size: 08.em;
-	margin: 10px 0;
-}
-
-#nav{
-	margin: 20px 0;
-	font-size: 0.8em;
-}
+#mainDiv {
+	background: #ff9900;
+	width: 75%;
+	height: 80%;
 }
