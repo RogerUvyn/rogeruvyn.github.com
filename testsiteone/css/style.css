@@ -51,14 +51,7 @@ body{
 }
 
 
-#wrapper {
-	background-color: #000;
-	margin 5% 10%;
-}
-
 #mainDiv {
-	width: inherit;
-	height: inherit;
 	background: #ff9900;
 	width: 75%;
 	height: 80%;
