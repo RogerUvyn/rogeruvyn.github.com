@@ -1,9 +1,48 @@
 body{}
 
-@media screen and (max-width: 800px) {
-	body{
+
+
+/**************
+break points
+***************/
+@media only screen and (max-device-width : 320px) {
+
+body{
+		background-color: blue;
+	}
+
+}
+
+@media only screen and (min-device-width : 480px) {
+
+body{
+		background-color: red;
+	}
+
+}
+
+@media only screen and (min-device-width : 768px) {
+
+body{
+		background-color: orange;
+	}
+
+}
+
+@media only screen and (min-device-width : 1024px) {
+
+body{
+		background-color: white;
+	}
+
+}
+
+@media only screen and (min-device-width : 1440px) {
+
+body{
 		background-color: green;
 	}
+
 }
 
 
