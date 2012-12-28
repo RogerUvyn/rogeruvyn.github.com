@@ -51,6 +51,12 @@ body{
 }
 
 
+#wrapper{
+	width: 90%;
+	background-color: #000;
+	height: 75%;
+}
+
 #mainDiv {
 	background: #ff9900;
 	width: 75%;
