@@ -42,12 +42,12 @@ layout: default
 		</div>
 
 		<div class="span12">
-			<div class="spanNM3"><a class="btn" href="http://www.modelaircraft.org/">RC Aviation &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://www.modelaircraft.org/">RC Aviation &raquo;</a></div>
 
-			<div class="spanNM3"><a class="btn" href="http://www.rccaraction.com/">RC Auto &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://www.rccaraction.com/">RC Auto &raquo;</a></div>
 
-			<div class="spanNM3"><a class="btn" href="http://www.namba.com">RC Watercraft &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://www.namba.com">RC Watercraft &raquo;</a></div>
 
-			<div class="spanNM3"><a class="btn" href="http://www.rc-sub.com">RC Subs &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://www.rc-sub.com">RC Subs &raquo;</a></div>
 		</div>		
 </div>
