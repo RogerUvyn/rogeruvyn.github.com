@@ -18,9 +18,9 @@ layout: default
 <p><a class="btn" href="http://rogeruvyn.github.com/personal/projects.html">View details &raquo;</a></p>
 </div>
 <div class="span4">
-<h4>Driving Me Crazy</h4>
-<p>See what’s driving me crazy. This page contains not only code that drives me crazy but other things in life. Everyone has something that pushes their launch button. What starts your launch sequence? Email me and let me know! LOL</p>
-<p><a class="btn" href="http://rogeruvyn.github.com/personal/crazy.html">Lets hear it!k&raquo;</a></p>
+<h4>My Links</h4>
+<p>Links to places on the World Wide Web I visit.</p>
+<p><a class="btn" href="http://rogeruvyn.github.com/personal/links.html">Link it here!k&raquo;</a></p>
 </div>
 <div class="span4">
 <h4>All About Me</h4>
