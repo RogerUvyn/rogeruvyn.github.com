@@ -40,7 +40,7 @@ layout: default
 
 			<div class="span3"><a class="btn" href="http://www.lebanonvalley.com/">Lebanonvalley &raquo;</a></div>
 		</div>
-
+	</br>
 		<div class="span12">
 			<div class="span3"><a class="btn" href="http://www.modelaircraft.org/">RC Aviation &raquo;</a></div>
 
