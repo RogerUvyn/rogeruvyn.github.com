@@ -14,7 +14,7 @@ layout: default
 <div class="row">
 <div class="span4">
 <h4>Currently Working On</h4>
-<p>What am I currently working on? The answer is responsive design. So if you see things here that may not make sense to you don’t stress out. Remember this is my area to play and experiment so you may see different combinations of buttons code and crazy things. Just remember they all have a purpose in the grand scheme of the universe.</p>
+<p>What am I currently working on? The answer is could be anything. So if you see things here that may not make sense to you don’t stress out. Remember this is my area to play and experiment so you may see different combinations of buttons code and crazy things. You also have to understand you may not see anything because I maybe working on thing that are here but there are no links to the code. So if you don't see it here it doesn't mean I am not working on it, it just means you can't see it. Just remember they all have a purpose in the grand scheme of the universe.</p>
 <p><a class="btn" href="http://rogeruvyn.github.com/personal/projects.html">View details &raquo;</a></p>
 </div>
 <div class="span4">

@@ -28,3 +28,26 @@ layout: default
 			<div class="span3"><a class="btn" href="http://www.facebook.com">Facebook &raquo;</a></div>
 		</div>
 </div>
+
+<div class="row">
+		<h4>Free Time Interests</h4>
+		<div class="span12">
+			<div class="span3"><a class="btn" href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://en.wikipedia.org/wiki/Muscle_car">Muscle Cars &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://www.nhra.com/">NHRA &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://www.lebanonvalley.com/">Lebanonvalley &raquo;</a></div>
+		</div>
+
+		<div class="span12">
+			<div class="span3"><a class="btn" href="http://www.modelaircraft.org/">RC Aviation &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://www.rccaraction.com/">RC Auto &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://www.namba.com">RC Watercraft &raquo;</a></div>
+
+			<div class="span3"><a class="btn" href="http://www.rc-sub.com">RC Subs &raquo;</a></div>
+		</div>		
+</div>
