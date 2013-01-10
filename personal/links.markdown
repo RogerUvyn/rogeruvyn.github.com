@@ -11,13 +11,9 @@ layout: default
 		<h4>Programming</h4>
 		<div class="span4">
 			<p><a class="btn" href="http://developer.android.com/index.html">Android Development &raquo;</a></p>
-			</div>
 
-			<div class="span4">
 			<p><a class="btn" href="http://foundation.zurb.com/">Zurb Foundation &raquo;</a></p>
-			</div>
 
-			<div class="span4">
 			<p><a class="btn" href="http://www.gridsystemgenerator.com/">Grid System Generator &raquo;</a></p>
 		</div>
 	</div>
