@@ -31,7 +31,7 @@ layout: default
 
 <div class="row">
 		<h4>Free Time Interests</h4>
-		<p>
+
 		<div class="span12">
 			<div class="span3"><a class="btn" href="http://en.wikipedia.org/wiki/Automotive_restoration">Automotive Restoration &raquo;</a></div>
 
@@ -41,8 +41,8 @@ layout: default
 
 			<div class="span3"><a class="btn" href="http://www.lebanonvalley.com/">Lebanonvalley &raquo;</a></div>
 		</div>
-		</P>
-		<p>
+		<div class="span12">
+		</div>
 		<div class="span12">
 			<div class="span3"><a class="btn" href="http://www.modelaircraft.org/">RC Aviation &raquo;</a></div>
 
@@ -52,5 +52,5 @@ layout: default
 
 			<div class="span3"><a class="btn" href="http://www.rc-sub.com">RC Subs &raquo;</a></div>
 		</div>	
-		</P>	
+	
 </div>
