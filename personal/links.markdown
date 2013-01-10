@@ -5,6 +5,6 @@ layout: default
 ####Programming Links
 #####Development Links
 ######Android Development
-[[http://developer.android.com/index.html]]
+[Android Development][http://developer.android.com/index.html]
 
 ####More to come
