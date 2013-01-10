@@ -7,14 +7,12 @@ layout: default
 
 
 <div class="row">
-	<div class="span4">
 		<h4>Programming</h4>
 		<div class="span12">
-			<div class="span4"><a class="btn" href="http://developer.android.com/index.html">Android Development &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://developer.android.com/index.html">Android Development &raquo;</a></div>
 
-			<div class="span4"><a class="btn" href="http://foundation.zurb.com/">Zurb Foundation &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://foundation.zurb.com/">Zurb Foundation &raquo;</a></div>
 
-			<div class="span4"><a class="btn" href="http://www.gridsystemgenerator.com/">Grid System Generator &raquo;</a></div>
+			<div class="span3"><a class="btn" href="http://www.gridsystemgenerator.com/">Grid System Generator &raquo;</a></div>
 		</div>
-	</div>
 </div>
