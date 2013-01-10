@@ -20,7 +20,7 @@ layout: default
 <div class="span4">
 <h4>My Links</h4>
 <p>Links to places on the World Wide Web I visit.</p>
-<p><a class="btn" href="http://rogeruvyn.github.com/personal/links.html">Link it here!k&raquo;</a></p>
+<p><a class="btn" href="http://rogeruvyn.github.com/personal/links.html">Link it here!&raquo;</a></p>
 </div>
 <div class="span4">
 <h4>All About Me</h4>
